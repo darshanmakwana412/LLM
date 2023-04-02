@@ -54,3 +54,7 @@ Example output has been provided [here](assignment\output.txt)
 #### Submission
 
 Provide a link to your submission python script or jupyter notebook in your SOP or Proposal
+
+#### Resources
+
+To get started with python : https://docs.python.org/3.11/tutorial/index.html
