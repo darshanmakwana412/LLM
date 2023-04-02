@@ -43,13 +43,13 @@ You are a given an integer array A of length m, print the sum of all the element
 
 The first line of the input contains the number of test cases, for each test case the first lines contains the length of the array A and the second line contains the space separated elements of A
 
-example input has been provided here
+Example input has been provided [here](assignment\input.txt)
 
 #### Output
 
 For each array print the sum of the values of it's elements
 
-example output has been provided here
+Example output has been provided [here](assignment\output.txt)
 
 #### Submission
 
