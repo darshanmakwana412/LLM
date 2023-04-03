@@ -35,9 +35,7 @@ Python is a very hard pre requisite for this project as we will be putting our i
 
 You are a given an integer array A of length m, print the sum of all the elements of A.
 
-**You are not allowed to use while or for loops and iterators**
-
-below statements are not allowed
+**You are not allowed to use while or for loops and iterators, therefore statements such as the ones given below are not allowed**
 * [i*i + 4 for i in range(11)]
 * sum(A)
 
