@@ -33,29 +33,29 @@ Python is a very hard pre requisite for this project as we will be putting our i
 
 ### Problem Statement:
 
-You are a given an integer array A of length m, print the sum of all the elements of A.
+You are a given an integer array A of length n, calculate the sum of squares of all the non negative elements of A.
 
-**You are not allowed to use while or for loops and iterators, therefore statements such as the ones given below are not allowed**
-* [i*i + 4 for i in range(11)]
+**You are not allowed to use while loop, for loop, goto statements and iterators, therefore statements such as the ones given below are not allowed**
+* [i*i for i in A]
 * sum(A)
 
 **Your program should take the input from a text file and print the output in a separate text file, examples of both of which are given below**
 
 ### Input
 
-The first line of the input contains the number of test cases, for each test case the first lines contains the length of the array A and the second line contains the space separated elements of A
+The first line of the input contains the number of test cases T, for each test case the first line contains the length of the array N and the second line contains the space separated elements of the array
 
 Example input has been provided [here](./assignment/input.txt)
 
 ### Output
 
-For each array print the sum of the values of it's elements
+For each array print the sum of squares of all the non negative elements of A
 
 Example output has been provided [here](./assignment/output.txt)
 
 ### Submission
 
-Provide a link to your submission python script or jupyter notebook in your SOP or Proposal
+Provide a link to your submission python script or jupyter notebook in your SOP or Proposal uploaded on google drive or github
 
 ## Resources
 
