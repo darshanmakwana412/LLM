@@ -26,8 +26,7 @@ Basics of probability theory, statistical machine learning and python
 * [ ] building and training autoencoders for image generation
 * [ ] building and training a transformer from scratch
 * [ ] building and training BERT and miniGPT in pytorch from scratch
-
-## Assignment
+<!-- ## Assignment
 
 Python is a very hard pre requisite for this project as we will be putting our intuitive thoughts about natural language understanding into logical structures of rules that the computer will perform via python language, the assignment is based on your proficiency in python
 
@@ -55,8 +54,7 @@ Example output has been provided [here](./assignment/output.txt)
 
 ### Submission
 
-Provide a link to your submission python script or jupyter notebook in your SOP or Proposal uploaded on google drive or github
-
+Provide a link to your submission python script or jupyter notebook in your SOP or Proposal uploaded on google drive or github -->
 ## Resources
 
 To get started with python : https://docs.python.org/3.11/tutorial/index.html
